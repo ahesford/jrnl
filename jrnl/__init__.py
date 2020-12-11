@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+'''Collect your thoughts and notes without leaving the command line.'''
 
 try:
     from .__version__ import __version__
